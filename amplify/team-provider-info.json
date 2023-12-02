@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "casmd1e596b9": {}
+      },
+      "api": {
+        "casm": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
